@@ -1,7 +1,3 @@
-```text
-        fastapi
-        uvicorn
-        langchain
-        pydantic
-        python-dotenv
-        reportlab
+fastapi
+uvicorn
+pydantic
