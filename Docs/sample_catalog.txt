@@ -1,0 +1,7 @@
+Product: Web Design Service
+Price: $500
+Description: Full responsive website development.
+
+Product: AI Chatbot Integration
+Price: $300
+Description: Integration of Claude or GPT into existing systems.
