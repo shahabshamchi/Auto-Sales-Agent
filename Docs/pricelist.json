@@ -1,0 +1,32 @@
+{
+  "company_name": "AutoAgent Solutions",
+  "currency": "USD",
+  "last_updated": "2024-05-26",
+  "services": [
+    {
+      "id": "web_dev_basic",
+      "name": "Standard Business Website",
+      "price": 500,
+      "description": "5-page responsive website with contact form and SEO optimization.",
+      "delivery_time": "7 days"
+    },
+    {
+      "id": "ai_integration",
+      "name": "AI Chatbot Integration",
+      "price": 350,
+      "description": "Integration of Claude/GPT models into existing customer support channels.",
+      "delivery_time": "3 days"
+    },
+    {
+      "id": "maintenance_monthly",
+      "name": "Monthly Support & Updates",
+      "price": 50,
+      "description": "Technical support, security updates, and monthly performance reports.",
+      "delivery_time": "Ongoing"
+    }
+  ],
+  "discounts": {
+    "annual_billing": "20% off",
+    "non_profit_organizations": "15% off"
+  }
+}
